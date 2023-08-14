@@ -86,11 +86,6 @@
     display: none;
 }
 
-
-.container__imagemcostaesilv {
-    position: absolute;
-    top: -105px;
-    height: 30%;
-    width: 15%;
-    left: -20px;
+@media screen and{
+    
 }
